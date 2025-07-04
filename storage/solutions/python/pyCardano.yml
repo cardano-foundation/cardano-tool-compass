@@ -1,0 +1,3 @@
+name: "pyCardano"
+description: "PyCardano is a lightweight Python library for building and signing Cardano transactions, designed for off-chain Plutus DApp development without external serialization dependencies."
+url: "https://github.com/cffls/pycardano"

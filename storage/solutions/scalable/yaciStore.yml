@@ -1,0 +1,4 @@
+name: "yaci-store"
+description: "Yaci Store supports horizontal scalability through the use of read-only replicas, enabling efficient data distribution and high availability."
+url: "https://store.yaci.xyz/"
+

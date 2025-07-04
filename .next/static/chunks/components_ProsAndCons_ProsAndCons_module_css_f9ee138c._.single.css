@@ -1,0 +1,24 @@
+/* [project]/components/ProsAndCons/ProsAndCons.module.css [app-client] (css) */
+.ProsAndCons-module__Qx3HBa__prosAndCons {
+  flex-direction: column;
+  gap: 24px;
+  display: flex;
+}
+
+.ProsAndCons-module__Qx3HBa__prosAndConsDescription {
+  color: var(--color-gray-800);
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.ProsAndCons-module__Qx3HBa__prosAndConsLink {
+  color: var(--color-blue);
+  align-items: center;
+  gap: 12px;
+  margin-top: auto;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+}
+
+/*# sourceMappingURL=components_ProsAndCons_ProsAndCons_module_css_f9ee138c._.single.css.map*/

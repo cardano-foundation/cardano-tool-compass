@@ -1,0 +1,3 @@
+name: "mafoc-indexers"
+description: "Mafoc provides customizable Cardano indexers referred to as 'indexers', designed for lightweight, targeted blockchain data extraction."
+url: "https://github.com/eyeinsky/mafoc"

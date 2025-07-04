@@ -1,0 +1,3 @@
+name: "carp"
+description: "Carp is a modular blockchain indexer built on Oura. Recommended resources: vCPUs 4+, RAM 16GB minimum, Storage 256GB+ (depending on the number of tasks used)."
+url: "https://dcspark.github.io/carp/docs/requirements"

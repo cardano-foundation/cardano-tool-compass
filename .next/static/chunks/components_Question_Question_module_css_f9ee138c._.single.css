@@ -1,0 +1,89 @@
+/* [project]/components/Question/Question.module.css [app-client] (css) */
+.Question-module__hJCz_q__questionWrapper {
+  background-color: var(--color-lightest);
+  border-radius: 16px;
+  flex-direction: column;
+  width: 100%;
+  display: flex;
+}
+
+.Question-module__hJCz_q__questionLink {
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+
+@media (width <= 1023px) {
+  .Question-module__hJCz_q__questionLink {
+    padding: 16px;
+  }
+}
+
+.Question-module__hJCz_q__questionText {
+  color: var(--color-gray-1000);
+  letter-spacing: -.01em;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 28px;
+}
+
+@media (width <= 1023px) {
+  .Question-module__hJCz_q__questionText {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.Question-module__hJCz_q__questionCircle {
+  border: 2px solid var(--color-gray-400);
+  border-radius: 100%;
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+}
+
+.Question-module__hJCz_q__questionProsAndCons {
+  color: var(--color-blue);
+  cursor: pointer;
+  align-items: center;
+  gap: 12px;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+}
+
+.Question-module__hJCz_q__questionToolsAndUseCases {
+  background-color: var(--color-gray-800);
+  color: var(--color-lightest);
+  cursor: pointer;
+  border-radius: 48px;
+  gap: 4px;
+  padding: 6px 10px;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+}
+
+.Question-module__hJCz_q__questionMoreOptionsWrapper {
+  border-top: 1px solid var(--color-gray-50);
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 24px;
+  margin-right: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  display: flex;
+}
+
+@media (width <= 1023px) {
+  .Question-module__hJCz_q__questionMoreOptionsWrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+}
+
+/*# sourceMappingURL=components_Question_Question_module_css_f9ee138c._.single.css.map*/

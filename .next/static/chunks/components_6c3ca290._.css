@@ -1,0 +1,187 @@
+/* [project]/components/NavigationHeader/NavigationHeader.module.css [app-client] (css) */
+.NavigationHeader-module__Be8KDG__navigationHeaderWrapper {
+  background-color: var(--color-lightest);
+  z-index: 1;
+  width: 100%;
+  padding: 16px 64px;
+}
+
+@media (width <= 1023px) {
+  .NavigationHeader-module__Be8KDG__navigationHeaderWrapper {
+    padding: 12px 16px;
+  }
+}
+
+.NavigationHeader-module__Be8KDG__navigationHeaderContent {
+  justify-content: center;
+  align-items: center;
+  max-width: 1281px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  position: relative;
+}
+
+@media (width <= 1023px) {
+  .NavigationHeader-module__Be8KDG__navigationHeaderContent {
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+  }
+
+  .NavigationHeader-module__Be8KDG__navigationHeaderContent img {
+    height: 38px;
+  }
+}
+
+.NavigationHeader-module__Be8KDG__navigationHeaderButton {
+  border: 1px solid var(--color-gray-200);
+  cursor: pointer;
+  border-radius: 100%;
+  justify-content: center;
+  align-items: center;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+@media (width <= 1023px) {
+  .NavigationHeader-module__Be8KDG__navigationHeaderButton {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+
+/* [project]/components/Layout/Layout.module.css [app-client] (css) */
+.Layout-module__fmZ1UG__layoutWrapper {
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.Layout-module__fmZ1UG__layoutContent {
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  padding-top: 72px;
+  padding-bottom: 72px;
+  overflow: auto;
+}
+
+@media (width <= 1023px) {
+  .Layout-module__fmZ1UG__layoutContent {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
+
+.Layout-module__fmZ1UG__layoutGradient {
+  z-index: 0;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.Layout-module__fmZ1UG__layoutGradient img {
+  width: 100%;
+}
+
+
+/* [project]/components/ErrorView/ErrorView.module.css [app-client] (css) */
+.ErrorView-module__GnLEeG__errorView {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 846px;
+  height: calc(100% - 56px);
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+@media (width <= 1023px) {
+  .ErrorView-module__GnLEeG__errorView {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    height: calc(100% - 48px);
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.ErrorView-module__GnLEeG__errorViewContent {
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+
+@media (width <= 1023px) {
+  .ErrorView-module__GnLEeG__errorViewContent {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.ErrorView-module__GnLEeG__errorViewTitle {
+  text-align: center;
+  color: var(--color-gray-1000);
+  letter-spacing: -.05em;
+  font-size: 80px;
+  line-height: 92px;
+}
+
+@media (width <= 1023px) {
+  .ErrorView-module__GnLEeG__errorViewTitle {
+    font-size: 48px;
+    line-height: 60px;
+  }
+}
+
+.ErrorView-module__GnLEeG__errorViewDescription {
+  text-align: center;
+  color: var(--color-gray-800);
+  letter-spacing: -.01em;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.ErrorView-module__GnLEeG__errorViewStartOver {
+  background-color: var(--color-gray-800);
+  color: var(--color-lightest);
+  border-radius: 48px;
+  margin-top: 8px;
+  padding: 20px;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+@media (width <= 1023px) {
+  .ErrorView-module__GnLEeG__errorViewStartOver {
+    margin-top: 24px;
+  }
+}
+
+
+/*# sourceMappingURL=components_6c3ca290._.css.map*/

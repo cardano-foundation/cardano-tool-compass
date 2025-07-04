@@ -1,0 +1,3 @@
+name: "kupo"
+description: "Kupo is a lightweight Cardano chain indexer built in Haskell; it syncs blockchain data by matching addresses and scripts and is horizontally scalable via full replicas."
+url: "https://github.com/CardanoSolutions/kupo"

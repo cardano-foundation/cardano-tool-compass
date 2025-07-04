@@ -1,0 +1,3 @@
+name: "Automint"
+description: "A Python library providing programmatic access to cardano-cli functions for streamlined transaction management on the Cardano blockchain."
+url: "https://github.com/creativequotient/automint"

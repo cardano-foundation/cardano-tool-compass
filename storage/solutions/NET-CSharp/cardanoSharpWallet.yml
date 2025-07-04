@@ -1,0 +1,3 @@
+name: "Cardano Sharp Wallet"
+description: "CardanoSharp.Wallet is a Cardano cryptographic and serialization library for .NET applications."
+url: "https://github.com/CardanoSharp/cardanosharp-wallet"

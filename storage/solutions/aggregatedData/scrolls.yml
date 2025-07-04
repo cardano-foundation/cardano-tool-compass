@@ -1,0 +1,3 @@
+name: "scrolls-collections"
+description: "Scrolls provides default 'Collections' for in-memory blockchain data aggregation or allows creation of custom ones tailored to specific use cases."
+url: "https://github.com/txpipe/scrolls"

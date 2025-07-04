@@ -1,0 +1,3 @@
+name: "Lib Cardano"
+description: "High-performance library of Cardano blockchain tools written in modern C++."
+url: "https://gitlab.com/viperscience/libcardano"

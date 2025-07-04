@@ -1,0 +1,3 @@
+name: "kupo-rest"
+description: "REST API for Kupo, a lightweight chain indexer for tracking address and script data on the Cardano blockchain."
+url: "https://cardanosolutions.github.io/kupo/#tag/Matches"

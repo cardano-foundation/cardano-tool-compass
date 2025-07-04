@@ -1,0 +1,3 @@
+name: "Cardano CLI"
+description: "Powerful low-level tool for full control, automation, and direct node interaction without third-party dependencies. Commonly used for transaction building, wallet operations, and on-chain queries."
+url: "https://github.com/IntersectMBO/cardano-cli"

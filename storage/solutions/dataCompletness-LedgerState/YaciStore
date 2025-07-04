@@ -1,0 +1,3 @@
+name: "yaci-store"
+description: "Implements a node-independent calculation for Cardano Ledger State data (Rewards & Governance)."
+url: "https://store.yaci.xyz/"

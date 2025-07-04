@@ -1,0 +1,3 @@
+name: "yaci-store-docker"
+description: "Docker setup for Yaci Store, providing containerized deployment options for custom Cardano indexing."
+url: "https://github.com/bloxbean/yaci-store/tree/main/docker"

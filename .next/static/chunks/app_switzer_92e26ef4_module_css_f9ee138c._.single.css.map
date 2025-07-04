@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/switzer_92e26ef4.module.css"],"sourcesContent":["@font-face {\n    font-family: 'switzer';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Switzer-Regular.woff2%22,%22preload%22:true,%22has_size_adjust%22:true}') format('woff2');\n    font-display: swap;\n    font-weight: 300;font-style: normal;\n}\n@font-face {\n    font-family: 'switzer';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Switzer-SemiBold.woff2%22,%22preload%22:true,%22has_size_adjust%22:true}') format('woff2');\n    font-display: swap;\n    font-weight: 700;font-style: normal;\n}\n\n@font-face {\n    font-family: 'switzer Fallback';\n    src: local(\"Arial\");\n    ascent-override: 96.67%;\ndescent-override: 24.66%;\nline-gap-override: 8.88%;\nsize-adjust: 101.38%;\n\n}\n\n.className {\n    font-family: 'switzer', 'switzer Fallback';\n    \n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;;AAMA;;;;;;;;AAOA;;;;;;;;;AAUA"}}]
+}

@@ -1,0 +1,9 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring",
+    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/questionnaire/layout,_N_T_/questionnaire/[vertexId]/layout,_N_T_/questionnaire/[vertexId]/page,_N_T_/questionnaire/AA1/"
+  }
+}

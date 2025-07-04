@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/ListWithTitle/ListWithTitle.module.css"],"sourcesContent":[".listWithTitle {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n}\n\n.listWithTitleTitle {\n  display: flex;\n  gap: 12px;\n  font-size: 20px;\n  letter-spacing: -0.01em;\n  line-height: 28px;\n  font-weight: 700;\n  color: var(--color-gray-1000);\n}\n\n.listWithTitleList {\n  display: flex;\n  flex-direction: column;\n  gap: 8px;\n  padding-left: 24px;\n}\n\n.listWithTitleItem {\n  color: var(--color-gray-800);\n  line-height: 24px;\n  font-size: 16px;\n  list-style: disc;\n}\n"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;;;;;AAUA;;;;;;;AAOA"}}]
+}

@@ -1,0 +1,3 @@
+name: "mumak"
+description: "Mumak is a custom PostgreSQL extension for interacting with Cardano CBOR data directly."
+url: "https://github.com/txpipe/mumak"

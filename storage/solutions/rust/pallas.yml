@@ -1,0 +1,3 @@
+name: "Pallas"
+description: "Pallas is a growing set of Rust modules that re-implement core Ouroboros/Cardano logic which serves as a foundational layer for building higher-level applications."
+url: "https://github.com/txpipe/pallas"

@@ -1,0 +1,3 @@
+name: "scrolls"
+description: "Scrolls supports horizontal scalability through sharding, enabling distributed processing and aggregation of Cardano blockchain data."
+url: "https://github.com/txpipe/scrolls"

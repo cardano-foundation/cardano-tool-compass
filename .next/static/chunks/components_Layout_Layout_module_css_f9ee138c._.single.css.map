@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/Layout/Layout.module.css"],"sourcesContent":[".layoutWrapper {\n  display: flex;\n  height: 100vh;\n  width: 100vw;\n  background-color: var(--color-gray-200);\n  position: relative;\n  flex-direction: column;\n  overflow: hidden;\n}\n\n.layoutContent {\n  padding-top: 72px;\n  padding-bottom: 72px;\n  width: 100%;\n  height: 100%;\n  z-index: 1;\n  overflow: auto;\n\n  @media (max-width: 1023px) {\n    padding-top: 24px;\n    padding-bottom: 24px;\n  }\n}\n\n.layoutGradient {\n  position: absolute;\n  bottom: 0;\n  width: 100%;\n  z-index: 0;\n\n  img {\n    width: 100%;\n  }\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;AAUA;;;;;;;;;AAQE;EAA4B;;;;;;AAM9B;;;;;;;AAME"}}]
+}

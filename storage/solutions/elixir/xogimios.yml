@@ -1,0 +1,3 @@
+name: "Xogmios"
+description: "Xogmios is an Elixir client for the Cardano blockchain. You can use it to perform queries, stream blocks as they become available and submit transactions to the network."
+url: "https://github.com/wowica/xogmios"

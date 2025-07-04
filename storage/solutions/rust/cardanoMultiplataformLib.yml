@@ -1,0 +1,3 @@
+name: "Cardano Multiplatform Lib"
+description: "This is a library, written in Rust, that can be deployed to multiple platforms (Rust crate, JS, TypeScript, WASM, etc) to handle serialization & deserialization of core data structures with useful utility functions for dApps & wallets."
+url: "https://github.com/dcSpark/cardano-multiplatform-lib#cardano-multiplatform-lib"

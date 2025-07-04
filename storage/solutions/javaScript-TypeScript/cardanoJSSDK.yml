@@ -1,0 +1,3 @@
+name: "Cardano JS SDK"
+description: "JavaScript SDK for interacting with Cardano, providing various key management options, with support for popular hardware wallets."
+url: "https://github.com/input-output-hk/cardano-js-sdk"

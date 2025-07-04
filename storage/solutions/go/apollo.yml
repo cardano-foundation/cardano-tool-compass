@@ -1,0 +1,3 @@
+name: "Apollo"
+description: "Apollo is a pure Golang library providing Cardano serialization and core building blocks, with the goal of enabling full node interaction without intermediaries."
+url: "https://github.com/Salvionied/apollo"

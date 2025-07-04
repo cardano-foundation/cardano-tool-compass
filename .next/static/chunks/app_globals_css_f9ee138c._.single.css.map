@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/globals.css"],"sourcesContent":[":root {\n  --color-lightest: #fff;\n  --color-gray-1000: #272727;\n  --color-gray-800: #404040;\n  --color-gray-600: #808080;\n  --color-gray-400: #c6c6c6;\n  --color-gray-200: #d9d9d9;\n  --color-gray-50: #f2f2f2;\n  --color-blue: #0084ff;\n}\n"],"names":[],"mappings":"AAAA"}}]
+}

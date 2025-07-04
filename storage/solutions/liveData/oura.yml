@@ -1,0 +1,3 @@
+name: "Oura (Rust)"
+description: "Pluggable, event-based indexer that listens to a Cardano node and forwards data to various destinations (PostgreSQL, Kafka, etc.). Use cases include fast access and reacting to real-time data, and building custom storage layers."
+url: "https://github.com/txpipe/oura"

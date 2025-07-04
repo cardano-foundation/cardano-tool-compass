@@ -1,0 +1,3 @@
+name: "Lucid"
+description: "Lucid is a library designed to simplify creating Cardano transactions and writing off-chain code for Plutus contracts."
+url: "https://github.com/spacebudz/lucid"

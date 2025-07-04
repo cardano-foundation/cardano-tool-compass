@@ -1,0 +1,3 @@
+name: "Cardano NFT Vending Machine"
+description: "A simple vending machine Python library for minting Cardano NFTs using cardano-cli and scripting."
+url: "https://github.com/thaddeusdiamond/cardano-nft-vending-machine"

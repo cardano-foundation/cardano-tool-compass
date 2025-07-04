@@ -1,0 +1,3 @@
+name: "Yaci-store-stores"
+description: "Yaci Store modules, referred to as 'Stores', allows you to select indexing Cardano blockchain data."
+url: "https://github.com/bloxbean/yaci-store/tree/main/stores"

@@ -1,0 +1,32 @@
+/* [project]/components/ListWithTitle/ListWithTitle.module.css [app-client] (css) */
+.ListWithTitle-module__hSBZVW__listWithTitle {
+  flex-direction: column;
+  gap: 16px;
+  display: flex;
+}
+
+.ListWithTitle-module__hSBZVW__listWithTitleTitle {
+  letter-spacing: -.01em;
+  color: var(--color-gray-1000);
+  gap: 12px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+  display: flex;
+}
+
+.ListWithTitle-module__hSBZVW__listWithTitleList {
+  flex-direction: column;
+  gap: 8px;
+  padding-left: 24px;
+  display: flex;
+}
+
+.ListWithTitle-module__hSBZVW__listWithTitleItem {
+  color: var(--color-gray-800);
+  font-size: 16px;
+  line-height: 24px;
+  list-style: outside;
+}
+
+/*# sourceMappingURL=components_ListWithTitle_ListWithTitle_module_css_f9ee138c._.single.css.map*/

@@ -1,0 +1,51 @@
+pros:
+  - "First solution available in the ecosystem with a vast variety of endpoints."
+  - "Full Control & Flexibility: Ability to adapt, integrate, and customize solutions to specific application requirements."
+  - "Reduced Vendor Lock-in: Greater independence from single third-party providers, especially when using self-hosted indexers or off-chain libraries."
+  - "Optimized Performance: Potential for improved query speeds, reduced latency, and efficient storage (depending on chosen tools and infrastructure)."
+  - "Cost Efficiency at Scale: Typically more cost-effective for larger applications or extensive blockchain interactions."
+
+cons:
+  - "Technical Complexity: Requires technical expertise and resources for setup, integration, and ongoing maintenance."
+  - "Infrastructure and Maintenance Costs: Costs associated with servers, storage, bandwidth, and infrastructure maintenance."
+  - "Operational Overhead: Responsibility for continuous monitoring, troubleshooting, upgrades, and infrastructure security."
+  - "Data Sync & Consistency Issues: Challenges related to ensuring data accuracy, synchronization, and timely updates."
+  - "Slower Initial Setup: Longer deployment times compared to fully managed, pre-configured cloud solutions."
+
+usuallyUsed:
+  - " Need high customization or specific performance demands"
+  - " Have in-house DevOps capabilities and technical expertise"
+  - " Seeking cost efficiency at scale"
+
+toolsAndUseCases:
+  - title: "Cardano DB-Sync (Haskell)"
+    text: >
+      Used for solutions which require Cardano node data completeness, as it synchronizes ALL data from the Cardano blockchain. 
+      This comes with trade-offs in both on-disk storage, runtime requirements, and performance. 
+      Primary interface is a PostgreSQL database.
+
+  - title: "Kupo (Haskell)"
+    text: >
+      Fast, lightweight, and configurable Cardano chain indexer. 
+      It syncs blockchain data by matching addresses in transaction outputs and builds a lookup table containing output references, values, datums, and scripts. 
+      Ideal for solutions which require monitoring/tracking or resolving outputs by address, policy ID, or output reference for dApps, wallets, and explorers.
+
+  - title: "Oura (Rust)"
+    text: >
+      Doesn't index any data, but it supports pluggable sinks where filtered data from the Cardano blockchain can be dumped into (e.g. Elastic Search or Kafka). 
+      It also supports a wider variety of events. 
+      All-in-all, a good fit for custom and elaborate solutions.
+
+  - title: "Adder (Go)"
+    text: >
+      Similar to Oura, Adder is an event-emitter coupled with filters. 
+      Therefore, it requires backend storage or an additional solution for handling and serving events coming from the chain. 
+      It supports a variety of filters on addresses or assets, albeit in a more direct way—also a good fit for custom and elaborate solutions.
+
+  - title: "Yaci Store (Java)"
+    text: >
+      Versatile and modular solution that can function as a library for custom indexing, an event stream processor, or a full-fledged chain indexer. 
+      When used as a library, it supports real-time event streaming, similar to Oura and Adder, or can be tailored for custom indexing needs. 
+      As a full-chain indexer, Yaci Store offers comprehensive data availability while maintaining a highly flexible and modular architecture, allowing developers to selectively enable components. 
+      This makes it ideal for niche solutions that require a balance between performance, customization, and data completeness. 
+      Main interface for full chain indexing is Postgres database, although it also supports MySQL and H2.

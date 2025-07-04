@@ -1,0 +1,3 @@
+name: "Yaci (Java)"
+description: "Java-based Cardano mini-protocol implementation that allows users to connect to a remote or local Cardano node and interact with it in a variety of ways. Use case: listen to incoming blocks in real-time, fetch previous blocks, query information from a local node, monitor the local mempool, and submit transactions to a local node."
+url: "https://github.com/bloxbean/yaci"

@@ -1,0 +1,3 @@
+name: "yaci-store-rest"
+description: "Available through the Store API for accessing Yaci Store data via REST interface."
+url: "https://github.com/bloxbean/yaci-store/tree/main/stores-api"

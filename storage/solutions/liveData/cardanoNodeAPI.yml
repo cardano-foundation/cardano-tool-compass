@@ -1,0 +1,3 @@
+name: "Cardano Node API"
+description: "Native APIs to interact directly with the Cardano node. Enables real-time chain data access, transaction submission, and staking operations — commonly used in custom infrastructure and backend services."
+url: "https://cardano-node.cardano.intersectmbo.org/"

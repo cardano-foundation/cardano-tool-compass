@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/page": [
+      "static/media/Switzer_SemiBold-s.p.24feaa83.woff2",
+      "static/media/Switzer_Regular-s.p.c0872613.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

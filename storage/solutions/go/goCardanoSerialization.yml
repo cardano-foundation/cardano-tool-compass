@@ -1,0 +1,3 @@
+name: "Go Cardano Serialization"
+description: "Golang library for serialization & deserialization of Cardano data structures."
+url: "https://github.com/fivebinaries/go-cardano-serialization"

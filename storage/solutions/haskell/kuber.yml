@@ -1,0 +1,3 @@
+name: "Kuber"
+description: "Haskell library and JSON-API for composing Cardano transactions and working with off-chain Cardano blockchain."
+url: "https://github.com/dQuadrant/kuber"

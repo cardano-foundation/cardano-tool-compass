@@ -1,0 +1,3 @@
+name: "kupo-docker"
+description: "Docker image for Kupo, the lightweight Cardano chain indexer, available via Docker Hub for easy container-based deployment."
+url: "https://hub.docker.com/r/cardanosolutions/kupo"

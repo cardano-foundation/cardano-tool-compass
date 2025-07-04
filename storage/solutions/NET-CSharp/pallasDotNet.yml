@@ -1,0 +1,3 @@
+name: "Pallas.NET"
+description: "Pallas.NET is a .NET wrapper for the Pallas Rust library, enabling easy access to Cardano blockchain building blocks within .NET applications."
+url: "https://github.com/SAIB-Inc/Pallas.NET"

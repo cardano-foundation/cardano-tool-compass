@@ -1,0 +1,3 @@
+name: "Adder (Go)"
+description: "Event-driven tool/library for tailing the Cardano blockchain. Use case: Fast access and react to real-time data."
+url: "https://github.com/blinklabs-io/adder"

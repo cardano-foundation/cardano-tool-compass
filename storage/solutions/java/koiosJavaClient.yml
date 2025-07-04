@@ -1,0 +1,3 @@
+name: "Koios Java Client"
+description: "Koios Java Client is a Java REST Client library which allows interacting with Koios Server Instances using Java Objects."
+url: "https://github.com/cardano-community/koios-java-client"

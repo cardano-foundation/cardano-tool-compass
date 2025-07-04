@@ -1,0 +1,3 @@
+name: "Plu-ts"
+description: "An embedded DSL for Cardano smart contracts creation coupled with a library for Cardano transactions."
+url: "https://github.com/HarmonicLabs/plu-ts"

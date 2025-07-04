@@ -1,0 +1,3 @@
+name: "UTxO RPC (Rust)"
+description: "Lightweight interface for synchronizing chain data, fetching blocks, and tracking the tip of the blockchain. Use cases include the Query module for constructing new transactions, the Watch module for streaming transactions based on predicates, and Sync module for state synchronization."
+url: "https://utxorpc.org/cardano"

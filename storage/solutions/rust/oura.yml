@@ -1,0 +1,3 @@
+name: "Oura"
+description: "Oura is a Rust-based event pipeline for Cardano that connects to a node, filters relevant blockchain data, and forwards it to user-defined outputs called sinks."
+url: "https://oura.txpipe.io/v2"

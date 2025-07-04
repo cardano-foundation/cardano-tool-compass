@@ -1,0 +1,3 @@
+name: "CF Java Rewards Calculation"
+description: "This Java project calculates Cardano blockchain rewards, serving as both a formula implementation and edge case reference."
+url: "https://github.com/cardano-foundation/cf-java-rewards-calculation"

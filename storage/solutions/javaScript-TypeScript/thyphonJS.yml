@@ -1,0 +1,3 @@
+name: "Typhon JS"
+description: "A pure JavaScript Cardano wallet library for address generation, complex transaction building, UTXO selection, metadata, and Plutus support."
+url: "https://github.com/StricaHQ/typhonjs"

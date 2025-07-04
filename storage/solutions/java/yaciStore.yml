@@ -1,0 +1,3 @@
+name: "Yaci Store"
+description: "Yaci Store is a modular Java library and Spring Boot starter for building custom Cardano indexers with flexible, component-based architecture."
+url: "https://github.com/bloxbean/yaci-store/"
