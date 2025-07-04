@@ -97,7 +97,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/darlisaconsoni/Desktop/cf-ledger-sync",
+    "outputFileTracingRoot": "/Users/darlisaconsoni/Desktop/cf-ledger-sync-upload",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -280,10 +280,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "/Users/darlisaconsoni/Desktop/cf-ledger-sync"
+      "root": "/Users/darlisaconsoni/Desktop/cf-ledger-sync-upload"
     }
   },
-  "appDir": "/Users/darlisaconsoni/Desktop/cf-ledger-sync",
+  "appDir": "/Users/darlisaconsoni/Desktop/cf-ledger-sync-upload",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
