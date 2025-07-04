@@ -1,0 +1,12 @@
+pros:
+  - "Fast & Easy Integration – No need for complex infrastructure or maintenance."
+  - "Low Cost & Overhead – No server management or resource allocation."
+  - "Reliable & Scalable – Providers handle uptime and scaling."
+  - "Up-to-Date Data – Leverages real-time blockchain data from trusted sources."
+
+cons:
+  - "Limited Control – Dependent on third-party providers and their data availability."
+  - "Vendor Lock-in – Switching providers may require significant changes."
+  - "Rate Limits & Costs – API usage may have restrictions or become expensive at scale."
+  - "Latency & Performance – Response times depend on the provider’s infrastructure."
+  - "Potential Downtime Risks – If the API provider has issues, your service may be affected."

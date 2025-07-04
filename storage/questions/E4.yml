@@ -1,0 +1,14 @@
+pros:
+  - "Full Control – You control the database, data indexing, and custom queries, allowing for tailored optimizations."
+  - "No API Rate Limits – Unlike third-party APIs, you’re not restricted by request limits or throttling."
+  - "Lower Long-Term Costs – If your usage is high, self-hosting may be cheaper than paying for API usage over time."
+  - "Customization and flexibility – You can custom indexing, optimize performance, and setup solution for your application needs."
+  - "Resilience to Downtime – No reliance on third-party providers that may experience outages."
+
+cons:
+  - "High Setup Complexity – Requires significant effort to deploy, configure, and maintain infrastructure (especially if Nix/Haskell dependencies)."
+  - "Maintenance Overhead – Requires ongoing monitoring, upgrades, and bug fixes."
+  - "Infrastructure Costs – Requires servers (cloud or bare metal), storage, and networking, which can be expensive."
+  - "Scaling Challenges – If traffic increases, you must manually scale your infrastructure, unlike cloud-based API solutions."
+  - "Security Risks – Self-hosting means managing your own security (e.g., DDoS protection, access control, and database security)."
+  - "Protocol Updates – Keeping up with changes in Cardano (node updates, db-sync schema changes, hard forks) requires constant attention."

@@ -1,0 +1,13 @@
+pros:
+  - "No Backend Management – Eliminates the need for maintaining backend, servers or infrastructure."
+  - "Quick & Easy Deployment – Simplifies development with ready-to-use libraries."
+  - "Cost-Effective – Avoiding backend development and server costs."
+  - "Scalable – Automatically adjusts to demand through API provider usage."
+  - "Dependencies – Reduces backend dependencies."
+
+cons:
+  - "Limited Control – Relies on predefined functionality and provider constraints."
+  - "Security Risks – Exposes API keys or sensitive logic in client-side code."
+  - "Performance Limitations – Can be affected by browser capabilities and network conditions."
+  - "Blockchain Access Restrictions – Some data may not be directly accessible without additional indexing."
+  - "Provider Dependency – Changes or deprecations in libraries can impact functionality."
