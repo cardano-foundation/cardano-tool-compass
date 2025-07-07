@@ -46,10 +46,13 @@
         "labelType": "text",
         "domId": "flowchart-C2-5",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "No, I'm exploring",
         "props": {},
-        "type": "rect"
+        "type": "rect",
+        "link": "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring"
       }
     ],
     [
@@ -59,39 +62,10 @@
         "labelType": "string",
         "domId": "flowchart-C3-8",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "I have an idea and want to focus on coding",
-        "type": "square",
-        "props": {}
-      }
-    ],
-    [
-      "AA1",
-      {
-        "id": "AA1",
-        "labelType": "string",
-        "domId": "flowchart-AA1-10",
-        "styles": [],
-        "classes": [
-          "clickable"
-        ],
-        "text": "Use Cases",
-        "type": "square",
-        "props": {},
-        "link": "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring"
-      }
-    ],
-    [
-      "AA2",
-      {
-        "id": "AA2",
-        "labelType": "string",
-        "domId": "flowchart-AA2-12",
-        "styles": [],
-        "classes": [
-          "clickable"
-        ],
-        "text": "BaaS",
         "type": "square",
         "props": {},
         "link": "https://demeter.run/"
@@ -102,7 +76,7 @@
       {
         "id": "D1",
         "labelType": "string",
-        "domId": "flowchart-D1-14",
+        "domId": "flowchart-D1-10",
         "styles": [],
         "classes": [],
         "text": "How is your solution designed to access blockchain data??",
@@ -115,7 +89,7 @@
       {
         "id": "E1",
         "labelType": "string",
-        "domId": "flowchart-E1-16",
+        "domId": "flowchart-E1-12",
         "styles": [],
         "classes": [
           "clickable"
@@ -131,7 +105,7 @@
       {
         "id": "E2",
         "labelType": "string",
-        "domId": "flowchart-E2-17",
+        "domId": "flowchart-E2-13",
         "styles": [],
         "classes": [
           "clickable"
@@ -147,7 +121,7 @@
       {
         "id": "E3",
         "labelType": "string",
-        "domId": "flowchart-E3-18",
+        "domId": "flowchart-E3-14",
         "styles": [],
         "classes": [],
         "text": "Serverless or client-side application, using off-chain libraries / SDKs and their embedded data providers.",
@@ -160,7 +134,7 @@
       {
         "id": "E4",
         "labelType": "string",
-        "domId": "flowchart-E4-19",
+        "domId": "flowchart-E4-15",
         "styles": [],
         "classes": [],
         "text": "Hosting my own infrastructure and chain indexer solution",
@@ -173,7 +147,7 @@
       {
         "id": "F1",
         "labelType": "string",
-        "domId": "flowchart-F1-21",
+        "domId": "flowchart-F1-17",
         "styles": [],
         "classes": [],
         "text": "What language are you proficient in?",
@@ -186,7 +160,7 @@
       {
         "id": "G1",
         "labelType": "string",
-        "domId": "flowchart-G1-23",
+        "domId": "flowchart-G1-19",
         "styles": [],
         "classes": [
           "clickable"
@@ -202,7 +176,7 @@
       {
         "id": "G2",
         "labelType": "string",
-        "domId": "flowchart-G2-24",
+        "domId": "flowchart-G2-20",
         "styles": [],
         "classes": [
           "clickable"
@@ -218,7 +192,7 @@
       {
         "id": "G3",
         "labelType": "string",
-        "domId": "flowchart-G3-25",
+        "domId": "flowchart-G3-21",
         "styles": [],
         "classes": [
           "clickable"
@@ -234,7 +208,7 @@
       {
         "id": "G4",
         "labelType": "string",
-        "domId": "flowchart-G4-26",
+        "domId": "flowchart-G4-22",
         "styles": [],
         "classes": [
           "clickable"
@@ -250,7 +224,7 @@
       {
         "id": "G5",
         "labelType": "string",
-        "domId": "flowchart-G5-27",
+        "domId": "flowchart-G5-23",
         "styles": [],
         "classes": [
           "clickable"
@@ -266,7 +240,7 @@
       {
         "id": "G6",
         "labelType": "string",
-        "domId": "flowchart-G6-28",
+        "domId": "flowchart-G6-24",
         "styles": [],
         "classes": [
           "clickable"
@@ -282,7 +256,7 @@
       {
         "id": "G7",
         "labelType": "string",
-        "domId": "flowchart-G7-29",
+        "domId": "flowchart-G7-25",
         "styles": [],
         "classes": [
           "clickable"
@@ -298,7 +272,7 @@
       {
         "id": "G8",
         "labelType": "string",
-        "domId": "flowchart-G8-30",
+        "domId": "flowchart-G8-26",
         "styles": [],
         "classes": [
           "clickable"
@@ -314,7 +288,7 @@
       {
         "id": "G9",
         "labelType": "string",
-        "domId": "flowchart-G9-31",
+        "domId": "flowchart-G9-27",
         "styles": [],
         "classes": [
           "clickable"
@@ -330,7 +304,7 @@
       {
         "id": "G10",
         "labelType": "string",
-        "domId": "flowchart-G10-32",
+        "domId": "flowchart-G10-28",
         "styles": [],
         "classes": [
           "clickable"
@@ -346,7 +320,7 @@
       {
         "id": "G11",
         "labelType": "string",
-        "domId": "flowchart-G11-33",
+        "domId": "flowchart-G11-29",
         "styles": [],
         "classes": [
           "clickable"
@@ -362,7 +336,7 @@
       {
         "id": "BB1",
         "labelType": "string",
-        "domId": "flowchart-BB1-35",
+        "domId": "flowchart-BB1-31",
         "styles": [],
         "classes": [],
         "text": "Does your application requires just live data or historical data too? ?",
@@ -375,7 +349,7 @@
       {
         "id": "AB1",
         "labelType": "string",
-        "domId": "flowchart-AB1-37",
+        "domId": "flowchart-AB1-33",
         "styles": [],
         "classes": [
           "clickable"
@@ -391,7 +365,7 @@
       {
         "id": "AB2",
         "labelType": "string",
-        "domId": "flowchart-AB2-39",
+        "domId": "flowchart-AB2-35",
         "styles": [],
         "classes": [],
         "text": "What features do you need?",
@@ -404,7 +378,7 @@
       {
         "id": "AB3",
         "labelType": "string",
-        "domId": "flowchart-AB3-41",
+        "domId": "flowchart-AB3-37",
         "styles": [],
         "classes": [
           "clickable"
@@ -420,7 +394,7 @@
       {
         "id": "AB4",
         "labelType": "string",
-        "domId": "flowchart-AB4-42",
+        "domId": "flowchart-AB4-38",
         "styles": [],
         "classes": [
           "clickable"
@@ -436,7 +410,7 @@
       {
         "id": "AB5",
         "labelType": "string",
-        "domId": "flowchart-AB5-43",
+        "domId": "flowchart-AB5-39",
         "styles": [],
         "classes": [
           "clickable"
@@ -452,7 +426,7 @@
       {
         "id": "AB6",
         "labelType": "string",
-        "domId": "flowchart-AB6-44",
+        "domId": "flowchart-AB6-40",
         "styles": [],
         "classes": [
           "clickable"
@@ -468,7 +442,7 @@
       {
         "id": "AB7",
         "labelType": "string",
-        "domId": "flowchart-AB7-45",
+        "domId": "flowchart-AB7-41",
         "styles": [],
         "classes": [
           "clickable"
@@ -484,7 +458,7 @@
       {
         "id": "AB8",
         "labelType": "string",
-        "domId": "flowchart-AB8-46",
+        "domId": "flowchart-AB8-42",
         "styles": [],
         "classes": [
           "clickable"
@@ -500,7 +474,7 @@
       {
         "id": "AB9",
         "labelType": "string",
-        "domId": "flowchart-AB9-47",
+        "domId": "flowchart-AB9-43",
         "styles": [],
         "classes": [
           "clickable"
@@ -516,7 +490,7 @@
       {
         "id": "AB10",
         "labelType": "string",
-        "domId": "flowchart-AB10-48",
+        "domId": "flowchart-AB10-44",
         "styles": [],
         "classes": [
           "clickable"
@@ -532,7 +506,7 @@
       {
         "id": "AB11",
         "labelType": "string",
-        "domId": "flowchart-AB11-49",
+        "domId": "flowchart-AB11-45",
         "styles": [],
         "classes": [
           "clickable"
@@ -548,7 +522,7 @@
       {
         "id": "AB12",
         "labelType": "string",
-        "domId": "flowchart-AB12-50",
+        "domId": "flowchart-AB12-46",
         "styles": [],
         "classes": [
           "clickable"
@@ -564,7 +538,7 @@
       {
         "id": "AB13",
         "labelType": "string",
-        "domId": "flowchart-AB13-51",
+        "domId": "flowchart-AB13-47",
         "styles": [],
         "classes": [],
         "text": "Database technology",
@@ -577,7 +551,7 @@
       {
         "id": "AB14",
         "labelType": "string",
-        "domId": "flowchart-AB14-52",
+        "domId": "flowchart-AB14-48",
         "styles": [],
         "classes": [],
         "text": "Streaming Technology",
@@ -590,7 +564,7 @@
       {
         "id": "AD36",
         "labelType": "string",
-        "domId": "flowchart-AD36-54",
+        "domId": "flowchart-AD36-50",
         "styles": [],
         "classes": [
           "clickable"
@@ -606,7 +580,7 @@
       {
         "id": "AD37",
         "labelType": "string",
-        "domId": "flowchart-AD37-55",
+        "domId": "flowchart-AD37-51",
         "styles": [],
         "classes": [
           "clickable"
@@ -622,7 +596,7 @@
       {
         "id": "AD38",
         "labelType": "string",
-        "domId": "flowchart-AD38-56",
+        "domId": "flowchart-AD38-52",
         "styles": [],
         "classes": [
           "clickable"
@@ -638,7 +612,7 @@
       {
         "id": "AD39",
         "labelType": "string",
-        "domId": "flowchart-AD39-57",
+        "domId": "flowchart-AD39-53",
         "styles": [],
         "classes": [
           "clickable"
@@ -654,7 +628,7 @@
       {
         "id": "AD40",
         "labelType": "string",
-        "domId": "flowchart-AD40-58",
+        "domId": "flowchart-AD40-54",
         "styles": [],
         "classes": [
           "clickable"
@@ -670,7 +644,7 @@
       {
         "id": "AE9",
         "labelType": "string",
-        "domId": "flowchart-AE9-60",
+        "domId": "flowchart-AE9-56",
         "styles": [],
         "classes": [
           "clickable"
@@ -730,30 +704,6 @@
       "stroke": "normal",
       "length": 1,
       "id": "L_B1_C3_0"
-    },
-    {
-      "start": "C2",
-      "end": "AA1",
-      "type": "arrow_point",
-      "text": "",
-      "labelType": "text",
-      "classes": [],
-      "isUserDefinedId": false,
-      "stroke": "normal",
-      "length": 1,
-      "id": "L_C2_AA1_0"
-    },
-    {
-      "start": "C3",
-      "end": "AA2",
-      "type": "arrow_point",
-      "text": "",
-      "labelType": "text",
-      "classes": [],
-      "isUserDefinedId": false,
-      "stroke": "normal",
-      "length": 1,
-      "id": "L_C3_AA2_0"
     },
     {
       "start": "C1",
@@ -1212,5 +1162,5 @@
       "id": "L_AB14_AE9_0"
     }
   ],
-  "__generatedAt": 1751645563840
+  "__generatedAt": 1751876389748
 }

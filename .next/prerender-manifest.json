@@ -1,6 +1,30 @@
 {
   "version": 4,
   "routes": {
+    "/": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "Next-Action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/",
+      "dataRoute": "/index.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/questionnaire/A": {
       "experimentalBypassFor": [
         {
@@ -16,54 +40,6 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/questionnaire/[vertexId]",
       "dataRoute": "/questionnaire/A.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/questionnaire/AA1": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "Next-Action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/questionnaire/[vertexId]",
-      "dataRoute": "/questionnaire/AA1.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/questionnaire/AA2": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "Next-Action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/questionnaire/[vertexId]",
-      "dataRoute": "/questionnaire/AA2.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -1080,30 +1056,6 @@
         "x-next-revalidated-tags",
         "x-next-revalidate-tag-token"
       ]
-    },
-    "/": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "Next-Action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/",
-      "dataRoute": "/index.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
     }
   },
   "dynamicRoutes": {
@@ -1135,8 +1087,8 @@
   },
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "f7b69e4177f1701eb3a39a945fdc40c0",
-    "previewModeSigningKey": "e6e7f85b56c65efd6b35e9ece4ded4f4a8d9d00ce85a788445375158aab13510",
-    "previewModeEncryptionKey": "977e38d075bb3e2b50c82b1aa9fdf65da219cdd14fdc750a0d88bca40c94ae04"
+    "previewModeId": "4856cee7fa2a1cd4cdcb565c109f84c8",
+    "previewModeSigningKey": "b4d582621026299b13901afff4e1a9fe70ce6afceb5bd04e4942656714bc88a6",
+    "previewModeEncryptionKey": "1483063a6fea7164914441e7d8600bdd8eab4e6dbc8a0bc97ddae10baefe5b9d"
   }
 }
