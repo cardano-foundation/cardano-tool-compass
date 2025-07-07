@@ -1,3 +1,3 @@
-name: "carp-rest"
+name: "Carp REST API"
 description: "REST API specification for Carp, a modular blockchain indexer built on top of Oura."
 url: "https://github.com/dcSpark/carp/blob/main/docs/bin/openapi.json"

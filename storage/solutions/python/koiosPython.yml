@@ -1,3 +1,3 @@
 name: "Koios Python"
-description: "Koios Python is a Python wrapper which allows interacting with all information and parameters stored on the Cardano blockchain using Koios REST API."
+description: "Python wrapper which allows interacting with all information and parameters stored on the Cardano blockchain using Koios REST API."
 url: "https://github.com/cardano-community/koios-python"

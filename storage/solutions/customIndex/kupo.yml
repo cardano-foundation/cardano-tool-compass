@@ -1,3 +1,3 @@
-name: "kupo-pattern-matching"
+name: "Kupo"
 description: "Kupo uses pattern matching to filter and extract specific blockchain data during indexing."
 url: "https://github.com/CardanoSolutions/kupo/blob/master/src/Kupo/Data/Pattern.hs"

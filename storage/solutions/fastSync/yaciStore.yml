@@ -1,3 +1,3 @@
-name: "yaci-store"
-description: "Yaci Store syncs in under 30 hours (without Ledger State data); full data sync time is ?."
+name: "Yaci Store"
+description: "Yaci Store syncs in under 24 hours (without Ledger State data); full data sync time is ?."
 url: "https://store.yaci.xyz/"

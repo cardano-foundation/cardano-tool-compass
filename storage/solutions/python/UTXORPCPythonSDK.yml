@@ -1,3 +1,3 @@
-name: "UTXO RPC Python SDK"
+name: "UTxO RPC Python SDK"
 description: "Python SDK for the UTxO RPC interface."
 url: "https://github.com/utxorpc/python-sdk"

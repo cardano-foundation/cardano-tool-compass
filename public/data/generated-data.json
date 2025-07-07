@@ -166,7 +166,7 @@
           "clickable"
         ],
         "text": "Haskell",
-        "type": "rect",
+        "type": "square",
         "props": {},
         "link": "haskell"
       }
@@ -213,7 +213,7 @@
         "classes": [
           "clickable"
         ],
-        "text": "JavaScript, TypeScript",
+        "text": "JavaScript/TypeScript",
         "type": "square",
         "props": {},
         "link": "javaScript-TypeScript"
@@ -277,7 +277,7 @@
         "classes": [
           "clickable"
         ],
-        "text": ".NET, C#",
+        "text": ".NET/C#",
         "type": "square",
         "props": {},
         "link": "NET-CSharp"
@@ -383,7 +383,7 @@
         "classes": [
           "clickable"
         ],
-        "text": "Data Completeness - Ledger State",
+        "text": "Data Completeness (Ledger State)",
         "type": "square",
         "props": {},
         "link": "dataCompletness-LedgerState"
@@ -649,10 +649,23 @@
         "classes": [
           "clickable"
         ],
-        "text": "Spring Boots",
+        "text": "Spring Boot Starters",
         "type": "square",
         "props": {},
-        "link": "streamingTechnology/springBoot"
+        "link": "streamingTechnology/springBootStarters"
+      }
+    ],
+    [
+      "AE10",
+      {
+        "id": "AE10",
+        "labelType": "string",
+        "domId": "flowchart-AE10-57",
+        "styles": [],
+        "classes": [],
+        "text": "Kafka",
+        "type": "square",
+        "props": {}
       }
     ]
   ],
@@ -1160,7 +1173,19 @@
       "stroke": "normal",
       "length": 1,
       "id": "L_AB14_AE9_0"
+    },
+    {
+      "start": "AB14",
+      "end": "AE10",
+      "type": "arrow_point",
+      "text": "",
+      "labelType": "text",
+      "classes": [],
+      "isUserDefinedId": false,
+      "stroke": "normal",
+      "length": 1,
+      "id": "L_AB14_AE10_0"
     }
   ],
-  "__generatedAt": 1751876389748
+  "__generatedAt": 1751918162353
 }

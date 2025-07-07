@@ -1,3 +1,3 @@
-name: "cardano-db-sync-insert-options"
+name: "Cardano DB-Sync"
 description: "Cardano DB-Sync supports 'Insert Options' for fine-tuned control over what data is written to the database."
 url: "https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/configuration.md"

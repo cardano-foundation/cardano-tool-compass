@@ -1,2 +1,3 @@
 name: "Koios"
+description: "Koios API is an open-source, elastic RESTful query layer providing flexible and efficient access to Cardano blockchain data."
 url: "https://koios.rest/"

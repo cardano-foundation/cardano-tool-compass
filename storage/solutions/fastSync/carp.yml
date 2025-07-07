@@ -1,3 +1,3 @@
-name: "carp"
+name: "Carp"
 description: "Carp syncs in approximately 4 to 5 days (doesn't provide Ledger State data), depending on configuration and enabled tasks."
 url: "https://dcspark.github.io/carp/docs/intro"

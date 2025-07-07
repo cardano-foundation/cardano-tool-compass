@@ -1,3 +1,3 @@
-name: "cardano-db-sync"
+name: "Cardano DB-Sync"
 description: "Cardano DB‑Sync extracts and stores full blockchain ledger data (including rewards & governance) into a relational database."
 url: "https://github.com/IntersectMBO/cardano-db-sync"

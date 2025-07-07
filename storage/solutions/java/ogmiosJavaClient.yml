@@ -1,3 +1,3 @@
 name: "Ogmios Java Client"
-description: "The Ogmios Java Client Library enables JSON/RPC communication with Cardano nodes over WebSocket using Ogmios and Ouroboros mini-protocols."
+description: "Java client for JSON/RPC communication with Cardano nodes over WebSocket using Ogmios and Ouroboros mini-protocols."
 url: "https://github.com/adabox-aio/ogmios-java-client"

@@ -1,3 +1,3 @@
-name: "Cardano Node Api"
-description: "Cardano Node API provides REST and gRPC endpoints that expose internal data from a local Cardano node by interfacing via Ouroboros NtC protocols over a UNIX socket."
+name: "Cardano Node API"
+description: "Provides REST and gRPC endpoints that expose internal data from a local Cardano node by interfacing via Ouroboros NtC protocols over a UNIX socket."
 url: "https://github.com/blinklabs-io/cardano-node-api"

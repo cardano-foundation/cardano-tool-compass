@@ -2,7 +2,7 @@ pros:
   - "Full Control – You control the database, data indexing, and custom queries, allowing for tailored optimizations."
   - "No API Rate Limits – Unlike third-party APIs, you’re not restricted by request limits or throttling."
   - "Lower Long-Term Costs – If your usage is high, self-hosting may be cheaper than paying for API usage over time."
-  - "Customization and flexibility – You can custom indexing, optimize performance, and setup solution for your application needs."
+  - "Customization and flexibility – You can custom indexing, optimize performance, and setup solutions for your application needs."
   - "Resilience to Downtime – No reliance on third-party providers that may experience outages."
 
 cons:

@@ -1,3 +1,3 @@
-name: "cardano-db-sync"
+name: "Cardano DB-Sync"
 description: "Utilizes node library to extract Ledger state data (Rewards & Governance)."
 url: "https://github.com/IntersectMBO/cardano-db-sync/blob/master/doc/schema.md"

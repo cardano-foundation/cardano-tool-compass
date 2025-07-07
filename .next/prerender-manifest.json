@@ -505,6 +505,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/questionnaire/AE10": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "Next-Action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/questionnaire/[vertexId]",
+      "dataRoute": "/questionnaire/AE10.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/questionnaire/AE9": {
       "experimentalBypassFor": [
         {
@@ -1087,8 +1111,8 @@
   },
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "4856cee7fa2a1cd4cdcb565c109f84c8",
-    "previewModeSigningKey": "b4d582621026299b13901afff4e1a9fe70ce6afceb5bd04e4942656714bc88a6",
-    "previewModeEncryptionKey": "1483063a6fea7164914441e7d8600bdd8eab4e6dbc8a0bc97ddae10baefe5b9d"
+    "previewModeId": "de3f56bdcf7ec74666a49dc111a32e7c",
+    "previewModeSigningKey": "bfa72920a28395d168d698e32768edf83726392607df656aa2a22ac4d4197dc3",
+    "previewModeEncryptionKey": "0d883f10f15b62ce5b9e817d5307e96a3ea5f755d92041e92d74cf580d63f483"
   }
 }

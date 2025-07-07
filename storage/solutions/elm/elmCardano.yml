@@ -1,3 +1,3 @@
 name: "Elm Cardano"
-description: "Elm Cardano is an offchain Elm library for building safe, frontend-friendly Cardano apps, designed to pair seamlessly with Aiken for onchain code."
+description: "Off-chain Elm library for building safe, frontend-friendly Cardano apps, designed to pair seamlessly with Aiken for on-chain code."
 url: "https://github.com/elm-cardano/elm-cardano"

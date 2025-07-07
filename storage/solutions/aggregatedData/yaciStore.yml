@@ -1,3 +1,3 @@
-name: "yaci-store-aggregation"
-description: "Yaci Store's aggregation app is currently limited to UTXO and address balance tracking."
+name: "Yaci Store"
+description: "Yaci Store's Ledger State is currently limited to UTXO and address balance tracking."
 url: "https://store.yaci.xyz/usage/aggregation-app-getting-started"

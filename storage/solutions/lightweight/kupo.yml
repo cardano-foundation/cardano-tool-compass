@@ -1,3 +1,3 @@
-name: "kupo"
+name: "Kupo"
 description: "Kupo is a lightweight Cardano chain indexer. Recommended resources: CPU 2+ cores, RAM 256MB–2048MB, Disk Storage 1MB–220GB."
 url: "https://github.com/CardanoSolutions/kupo"

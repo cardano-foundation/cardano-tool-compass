@@ -1,4 +1,4 @@
 name: "Cardano Serialization Lib"
-description: "A library, written in Rust, for serialization & deserialization of data structures used in Cardano's Haskell implementation of Alonzo along with useful utility functions."
+description: "Serialization & deserialization of data structures used in Cardano's Haskell implementation of Alonzo along with useful utility functions."
 url: "https://github.com/Emurgo/cardano-serialization-lib"
 

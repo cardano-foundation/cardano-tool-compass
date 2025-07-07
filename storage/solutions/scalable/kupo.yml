@@ -1,3 +1,3 @@
-name: "kupo"
+name: "Kupo"
 description: "Kupo supports horizontal scalability using full replicas, where each instance independently syncs the chain for high availability and resilience."
 url: "https://github.com/CardanoSolutions/kupo"

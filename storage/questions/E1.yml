@@ -1,0 +1,15 @@
+pros:
+  - "Developer-Friendly – Provides APIs, SDKs, and ready-to-use environments for a smoother development experience."
+  - "Plug-and-Play Extensions – Customize your stack with pre-built extensions and managed services."
+  - "Customer support based on SLA"
+  - "Simplified Deployment & Scalability – Easily deploy and scale Cardano dApps without managing complex infrastructure."
+
+cons:
+  - "Cost and migration considerations – Relying on a third-party platform may lead to higher costs and migration challenges."
+  - "Limited Customization – Managed services may not offer full flexibility for highly specific implementations."
+  - "Reliance on Third-Party Uptime – Any downtime or service disruption of the provider could affect your dApp."
+  - "Data Integrity Challenges – Reduced data assurance due to reliance on external information sources."
+
+usuallyUsed:
+  - " Rapid prototyping or early-stage development"
+  - " Limited in-house infrastructure or DevOps resources"
