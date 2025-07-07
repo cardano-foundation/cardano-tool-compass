@@ -79,7 +79,7 @@
         "domId": "flowchart-D1-10",
         "styles": [],
         "classes": [],
-        "text": "How is your solution designed to access blockchain data??",
+        "text": "How is your solution designed to access blockchain data?",
         "type": "diamond",
         "props": {}
       }
@@ -339,7 +339,7 @@
         "domId": "flowchart-BB1-31",
         "styles": [],
         "classes": [],
-        "text": "Does your application requires just live data or historical data too? ?",
+        "text": "Does your application requires just live data or historical data too?",
         "type": "diamond",
         "props": {}
       }
@@ -686,7 +686,7 @@
       "start": "B1",
       "end": "C1",
       "type": "arrow_point",
-      "text": "YES - I know what I want to build",
+      "text": "YES - I know what I want to build and would like to explorer tools",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -698,7 +698,7 @@
       "start": "B1",
       "end": "C2",
       "type": "arrow_point",
-      "text": "NO - I'm exploring",
+      "text": "NO - I'm exploring. Looking for use case examples",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -710,7 +710,7 @@
       "start": "B1",
       "end": "C3",
       "type": "arrow_point",
-      "text": "NOT SURE - I have an idea and want to focus on coding",
+      "text": "NOT SURE - I have an idea and want to quick prototype it",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -1187,5 +1187,5 @@
       "id": "L_AB14_AE10_0"
     }
   ],
-  "__generatedAt": 1751918162353
+  "__generatedAt": 1751919945620
 }
