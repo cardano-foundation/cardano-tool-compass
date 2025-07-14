@@ -1,10 +1,10 @@
 flowchart TD
     A["Start"] --> B1{"Do you know what application you want to develop?"}
-    B1 -- YES - I know what I want to build and would like to explorer tools --> C1["Yes, I know what I want to build"]
-    B1 -- NO - I'm exploring. Looking for use case examples --> C2@{ label: "No, I'm exploring" }
-    B1 -- NOT SURE - I have an idea and want to quick prototype it --> C3["I have an idea and want to focus on coding"]
+    B1 -- YES - I know what I want to build and would like to explorer tools  --> C1["tools"]
+    B1 -- NO - I am exploring. Looking for use case examples --> C2["Use cases"]
+    B1 -- NOT SURE - I have an idea and want to quick prototype it --> C3["BaaS"]
     C1 --> D1{"How is your solution designed to access blockchain data?"}
-    D1 --> E1["Through a ready to use sandbox cloud environment (BaaS)"] & E2["Simply calling APIs."] & E3["Serverless or client-side application, using off-chain libraries / SDKs and their embedded data providers."] & E4["Hosting my own infrastructure and chain indexer solution"]
+    D1 --> E1["Through a ready to use sandbox cloud environment (BaaS)"] & E2["Simply calling APIs"] & E3["Serverless or client-side application, using off-chain libraries / SDKs and their embedded data providers"] & E4["Hosting my own infrastructure and chain indexer solution"]
     E3 --> F1{"What language are you proficient in?"}
     F1 --> G1["Haskell"] & G2["Rust"] & G3["Java"] & G4["JavaScript/TypeScript"] & G5["Python"] & G6["Go"] & G7["ELM"] & G8[".NET/C#"] & G9["C"] & G10["Elixir"] & G11["Kotlin"]
     E4 --> BB1{"Does your application requires just live data or historical data too?"}
@@ -14,7 +14,7 @@ flowchart TD
     AB13 --> AD36["PotgresSQL"] & AD37["MySQL"] & AD38["SQLite"] & AD39["H2"] & AD40["Redis"]
     AB14 --> AE9["Spring Boot Starters"] & AE10["Kafka"]
 
-    C2@{ shape: rect}
+    
     click C2 "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring"
     click C3 "https://demeter.run/"
 
