@@ -25,10 +25,7 @@ jobs:
       - name: Install Chromium dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y \
-            libx11-dev libxcomposite1 libxdamage1 libxrandr2 \
-            libgbm-dev libgtk-3-0 libnss3 libasound2 libatk1.0-0 \
-            libcups2 libxss1 lsb-release xdg-utils wget ca-certificates
+          sudo apt-get install -y libgbm1
 
       - name: Build Next.js app
         env:
