@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/ToolsAndUseCases/ToolsAndUseCases.module.css"],"sourcesContent":[".toolsAndUseCases {\n  display: flex;\n  flex-direction: column;\n  gap: 24px;\n}\n\n.toolsAndUseCasesItem {\n  display: flex;\n  flex-direction: column;\n  gap: 8px;\n}\n\n.toolsAndUseCasesItemTitle {\n  display: flex;\n  gap: 12px;\n  font-size: 20px;\n  letter-spacing: -0.01em;\n  line-height: 28px;\n  font-weight: 700;\n  color: var(--color-gray-1000);\n}\n\n.toolsAndUseCasesItemText {\n  color: var(--color-gray-800);\n  line-height: 24px;\n  font-size: 16px;\n}\n"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;AAMA;;;;;;;;;;AAUA"}}]
-}
