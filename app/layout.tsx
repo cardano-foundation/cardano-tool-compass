@@ -7,12 +7,12 @@ import "./globals.css";
 const switzer = localFont({
   src: [
     {
-      path: "./fonts/Switzer-Regular.woff2",
+      path: "fonts/Switzer-Regular.woff2",
       weight: "300",
       style: "normal",
     },
     {
-      path: "./fonts/Switzer-SemiBold.woff2",
+      path: "fonts/Switzer-SemiBold.woff2",
       weight: "700",
       style: "normal",
     },
