@@ -21,7 +21,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Chromium dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libx11-dev libxcomposite1 libxdamage1 libxrandr2 \
+            libgbm-dev libgtk-3-0 libnss3 libasound2 libatk1.0-0 \
+            libcups2 libxss1 lsb-release xdg-utils wget ca-certificates
+
       - name: Build Next.js app
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: 'true'
+          PUPPETEER_EXECUTABLE_PATH: '/usr/bin/google-chrome-stable' # Optional if you install Chrome manually
         run: npm run build
 
       - name: Upload exported site as artifact
