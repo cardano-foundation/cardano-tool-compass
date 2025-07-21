@@ -1,6 +1,8 @@
 {
-  "name": "mermaid-to-quiz",
-  "version": "0.1.0",
+  "name": "cardano-tool-compass",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A smart guide for finding the right Cardano tool.",
   "private": true,
   "scripts": {
     "generate": "node scripts/generateDiagramData.js",

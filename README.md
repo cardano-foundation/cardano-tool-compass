@@ -1,17 +1,22 @@
-## Tool Compass – Your Smart Guide to Cardano Blockchain Data
+## Tool Compass – Your Smart Guide to Cardano Blockchain Data 🧭
 
 Tool Compass is your go-to assistant for navigating the diverse and often overwhelming ecosystem of Cardano blockchain data solutions. From direct node interfaces to robust chain indexers, streamlined API providers,  powerful off-chain SDKs and fully managed BaaS platforms — Tool Compass helps you find exactly what fits your project’s technical and architectural needs. It provides clear, tailored recommendations, a step-by-step workflow to guide your choices, and a rich library of practical blueprints for common dApp scenarios. Tool Compass eliminates the need for exhaustive research, helping you quickly identify and integrate the right tools so you can concentrate on building scalable, high-impact Cardano applications.
 
-## Getting Started
+## Getting Started 🚀
 
 This is Next project that generates static pages based on `.mmd` file and `yml` files
 
 To start development mode run:
-`npm run dev`
+```
+npm install
+npm run dev
+
+# goto http://localhost:3000
+```
 
 To build static pages run: `npm run build` generated files can be find in `/out` directory
 
-## Mermaid structure
+## Mermaid structure 🧬
 
 Flow chart is generated based on `questionnaire.mmd` file.
 
@@ -41,7 +46,7 @@ If you want to add information about solutions just add `[technologyName].yml` t
 - cons: string[]
 - url: string
 
-## ENV file
+## Environment file 🌱
 In .env file you can specify:
 
 - **FIRST_QUESTION_URL** - should point to the first question. This is used to automatically redirect user to first question when he enter `index.html` and is also used on `Start over` button 
