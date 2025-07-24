@@ -23,6 +23,7 @@ Flow chart is generated based on `questionnaire.mmd` file.
 ### Behaviour:
 
 - **Blocks with external links** automatically redirect users to external page. For example `https://github.com`
+
 - **Blocks with relative links** point to directories in `/storage/solutions`. For example `java` will point to `/storage/solutions/java`. This block will display solutions page with technologies stored in `.yml` files in `/storage/solutions/java` directory
 
 ## YML files
@@ -50,6 +51,15 @@ If you want to add information about solutions just add `[technologyName].yml` t
 In .env file you can specify:
 
 - **FIRST_QUESTION_URL** - should point to the first question. This is used to automatically redirect user to first question when he enter `index.html` and is also used on `Start over` button 
-- **CLOSE_URL** - should point to cardano-foundation page I set it to `https://cardanofoundation.org/ledger-sync`. It is used when user clicks `X` button in the top navigation
+
+- **CLOSE_URL** - should point to cardano-foundation page I set it to `https://cardanofoundation.org/tools-solutions`. It is used when user clicks `X` button in the top navigation
+
+## Documentation
+
+| Link                                           | Audience   |
+|------------------------------------------------|------------|
+| [License](LICENSE)                             | Developers |
+| [Code Of Conduct](CODE-OF-CONDUCT.md)          | Developers |
+| [Contributing](CONTRIBUTING.md)                | Developers |
 
 
