@@ -20,9 +20,9 @@ const switzer = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ledger Sync: Efficient Data Querying for Cardano Blockchain",
+  title: "Tool Compass: Your Smart Guide to Cardano Blockchain Data",
   description:
-    "Need fast, flexible access to Cardano blockchain data? Ledger Sync delivers enterprise-grade performance and simplified integration. Open-source.",
+    "Tool Compass is your go-to assistant for navigating the diverse and often overwhelming ecosystem of Cardano blockchain data solutions.",
   icons: {
     icon: "/favicon.ico",
   },
