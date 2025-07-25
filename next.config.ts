@@ -1,12 +1,14 @@
 import type { NextConfig } from "next";
 
-const nextConfig = {
-  basePath: '/cardano-tool-compass',
-  assetPrefix: '/cardano-tool-compass',
-  output: 'export', // Required for static export to GitHub Pages
+const isGitHubPages = process.env.DEPLOY_TARGET === 'github-pages';
+
+const nextConfig: NextConfig = {
+  basePath: isGitHubPages ? '/cardano-tool-compass' : '',
+  assetPrefix: isGitHubPages ? '/cardano-tool-compass' : '',
+  output: 'export',
   trailingSlash: true,
   images: {
-    unoptimized: true // Required for static export
+    unoptimized: true
   }
 }
 
