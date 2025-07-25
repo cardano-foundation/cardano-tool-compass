@@ -1,0 +1,3 @@
+name: "Kupo"
+description: "Kupo syncs the Cardano mainnet in under 24 hours and serves most queries in 60–700 ms, depending on complexity (version 2.8.0)."
+url: "https://github.com/CardanoSolutions/kupo/tree/master/benchmarks#benchmarks"

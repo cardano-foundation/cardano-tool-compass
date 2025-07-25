@@ -1,3 +1,3 @@
 name: "Yaci Store"
-description: "Yaci Store's Ledger State is currently limited to UTXO and address balance tracking."
+description: "Yaci Store performs balance aggregation along with ledger and governance state calculations, which are specialized aggregation processes. It can also be used as a library to implement custom aggregation logic."
 url: "https://store.yaci.xyz/usage/aggregation-app-getting-started"

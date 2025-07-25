@@ -1,3 +1,3 @@
 name: "Yaci Store"
-description: "Yaci Store syncs in under 24 hours (without Ledger State data); full data sync time is ?."
+description: "Yaci Store syncs Cardano on-chain data with options for UTXO Pruning and Ledger State inclusion. Sync options: Full sync (no UTXO Pruning, no Ledger State) - ~24h, 689 GB (790 GB with transaction_witness); Full sync + UTXO Pruning (no Ledger State) - ~24h, 338 GB; Full sync + Ledger State (no UTXO Pruning) - ~3 days, 978 GB; Full sync + Ledger State + UTXO Pruning - ~3 days, 501 GB."
 url: "https://store.yaci.xyz/"

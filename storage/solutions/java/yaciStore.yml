@@ -1,3 +1,3 @@
 name: "Yaci Store"
-description: "Modular Java library and Spring Boot starter for building custom Cardano indexers with a flexible, component-based architecture and support for PostgreSQL, MySQL, and H2 databases."
+description: "Modular Chain Indexer, Java library and Spring Boot starter for building custom Cardano indexers with a flexible, component-based architecture and support for PostgreSQL, MySQL, and H2 databases."
 url: "https://github.com/bloxbean/yaci-store/"

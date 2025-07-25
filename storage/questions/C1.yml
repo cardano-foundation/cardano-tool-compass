@@ -1,21 +1,3 @@
-pros:
-  - "Full Control & Flexibility: Ability to adapt, integrate, and customize solutions to specific application requirements."
-  - "Reduced Vendor Lock-in: Greater independence from single third-party providers, especially when using self-hosted indexers or off-chain libraries."
-  - "Optimized Performance: Potential for improved query speeds, reduced latency, and efficient storage (depending on chosen tools and infrastructure)."
-  - "Cost Efficiency at Scale: Typically more cost-effective for larger applications or extensive blockchain interactions."
-
-cons:
-  - "Technical Complexity: Requires technical expertise and resources for setup, integration, and ongoing maintenance."
-  - "Infrastructure and Maintenance Costs: Costs associated with servers, storage, bandwidth, and infrastructure maintenance."
-  - "Operational Overhead: Responsibility for continuous monitoring, troubleshooting, upgrades, and infrastructure security."
-  - "Data Sync & Consistency Issues: Challenges related to ensuring data accuracy, synchronization, and timely updates."
-  - "Slower Initial Setup: Longer deployment times compared to fully managed, pre-configured cloud solutions."
-
-usuallyUsed:
-  - " Need high customization or specific performance demands"
-  - " Have in-house DevOps capabilities and technical expertise"
-  - " Seeking cost efficiency at scale"
-
 toolsAndUseCases:
   - title: "Cardano DB-Sync (Haskell)"
     text: >
