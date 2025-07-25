@@ -28,6 +28,9 @@ jobs:
         with:
           node-version: "22.14.0"
 
+      - name: Replace DEPLOY_TARGET for GitHub Pages
+        run: sed -i 's/DEPLOY_TARGET=localhost/DEPLOY_TARGET=github-pages/g' .env
+
       - name: Install dependencies
         run: npm install
 
