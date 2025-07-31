@@ -1,6 +1,6 @@
 ## Tool Compass – Your Smart Guide to Cardano Blockchain Data 🧭
 
-Tool Compass is your go-to assistant for navigating the diverse and often overwhelming ecosystem of Cardano blockchain data solutions. From direct node interfaces to robust chain indexers, streamlined API providers,  powerful off-chain SDKs and fully managed BaaS platforms — Tool Compass helps you find exactly what fits your project’s technical and architectural needs. It provides clear, tailored recommendations, a step-by-step workflow to guide your choices, and a rich library of practical blueprints for common dApp scenarios. Tool Compass eliminates the need for exhaustive research, helping you quickly identify and integrate the right tools so you can concentrate on building scalable, high-impact Cardano applications.
+Tool Compass is your go-to assistant for navigating the diverse Cardano blockchain solutions. From direct node interfaces to chain indexers, streamlined API providers, off-chain SDKs and fully managed BaaS platforms — Tool Compass helps you find exactly what fits your project’s technical and architectural needs. It provides clear, tailored recommendations, a step-by-step workflow to guide your choices, and a rich library of practical blueprints for common dApp scenarios. Tool Compass eliminates the need for exhaustive research, helping you quickly identify and integrate the right tools so you can concentrate on building scalable, high-impact Cardano applications.
 
 ## Getting Started 🚀
 
