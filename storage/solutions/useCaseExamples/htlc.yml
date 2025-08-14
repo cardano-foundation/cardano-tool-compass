@@ -1,0 +1,4 @@
+name: "The Hash Timed Locked Contract (HTLC)"
+description: "The Hash Timed Locked Contract (HTLC) involves two users, the owner and the guesser. This contract allows the owner to lock funds within a contract by providing an expiration time and a secret. Others can try to unlock the funds before the expiration by trying to guess the secret. The owner can unlock the funds after the expiration to get the funds out of the contract."
+url: "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring/blob/main/htlc/README.md"
+

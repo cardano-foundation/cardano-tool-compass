@@ -1,0 +1,3 @@
+name: "Vesting"
+description: "Vesting contract is a smart contract that locks up funds for a period of time and allows the beneficiary to withdraw the funds after the lockup period."
+url: "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring/blob/main/vesting/README.md"
