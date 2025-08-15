@@ -1,0 +1,3 @@
+name: "Simple transfer"
+description: "This contract allows a user to deposit native assets define who can withdraw the assets. The receiver can then withdraw the assets."
+url: "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring/blob/main/simple-transfer/README.md"

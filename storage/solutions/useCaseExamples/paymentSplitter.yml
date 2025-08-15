@@ -1,0 +1,3 @@
+name: "Payment Splitter"
+description: "A simple payment splitter that distributes funds among a list of payees."
+url: "https://github.com/cardano-foundation/cardano-template-and-ecosystem-monitoring/blob/main/payment-splitter/README.md"
